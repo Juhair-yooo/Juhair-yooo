@@ -4,6 +4,5 @@
 
 <br><br>
 
-<img src="swinburne-badge-v2.svg" width="280" alt="Swinburne University of Technology">
 
 </div>
